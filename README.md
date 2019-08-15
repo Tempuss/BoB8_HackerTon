@@ -30,7 +30,9 @@ BoB8 개발트랙 해커톤
 
  * 일단 팀원들과 이야기 하고 난 후 2명이 ELK 구축 및 로그수집을 담당하고 나머지 3명이 공유기 구축을 하기로 결정!
  
- * 
+ * ELK 데모 사이트
+ 
+ https://demo.elastic.co/app/kibana#/dashboard/Packetbeat-HTTP-ecs
  
  ### 순서도
  
